@@ -1,0 +1,5 @@
+C:\Users\ORLANDO N\documents\visual studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\ORLANDO N\documents\visual studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ORLANDO N\documents\visual studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\ORLANDO N\documents\visual studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ORLANDO N\documents\visual studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+ORLANDO\SQLEXPRESS
+ControleDeEstoque
+sa
+123456
